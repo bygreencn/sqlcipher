@@ -1,0 +1,12 @@
+sqlite3Config
+sqlite3CtypeMap
+sqlite3GlobalFunctions
+sqlite3IntTokens
+sqlite3OpcodeProperty
+sqlite3PendingByte
+sqlite3UpperToLower
+sqlite3_data_directory
+sqlite3_temp_directory
+sqlite3_version
+sqlite3one
+winSysInfo
